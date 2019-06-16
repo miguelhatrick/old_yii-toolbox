@@ -1,0 +1,13 @@
+{
+	"name" : "miguelhatrick\\yii_toolbox",
+	"description" : "Toolbox for yii 2",
+	"autoload" : {
+		"psr-4" : {
+			"miguelhatrick\\yii_toolbox\\" : ""
+		}
+	},
+	"authors" : [{
+			"name" : "Miguel Hatrick"
+		}
+	]
+}
