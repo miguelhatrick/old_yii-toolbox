@@ -3,7 +3,7 @@
 	"description" : "Toolbox for yii 2",
 	"autoload" : {
 		"psr-4" : {
-			"miguelhatrick\\yii-toolbox\\" : ""
+			"miguelhatrick\\YiiToolbox\\" : ""
 		}
 	},
 	"authors" : [{
