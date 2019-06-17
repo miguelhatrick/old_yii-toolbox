@@ -1,5 +1,5 @@
 <?php
-namespace miguelhatrick\yii_toolbox;
+namespace miguelhatrick\YiiToolbox;
 
 class PasswordGenerator
 {
