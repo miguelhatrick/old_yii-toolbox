@@ -1,9 +1,9 @@
 {
-	"name" : "miguelhatrick\\yii_toolbox",
+	"name" : "miguelhatrick\\yii-toolbox",
 	"description" : "Toolbox for yii 2",
 	"autoload" : {
 		"psr-4" : {
-			"miguelhatrick\\yii_toolbox\\" : ""
+			"miguelhatrick\\yii-toolbox\\" : ""
 		}
 	},
 	"authors" : [{
